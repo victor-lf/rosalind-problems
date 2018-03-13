@@ -1,2 +1,2 @@
 # Rosalind problems
-Problems from Rosalind: http://rosalind.info/problems/tree-view/
+My solutions for some problems from Rosalind: http://rosalind.info/problems/tree-view/
